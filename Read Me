@@ -2,5 +2,27 @@ AI Data Dive is wholely owned by Aniruddh Tiwari
 email: aniruddhtiwari83@gmail.com
 linkedin: https://www.linkedin.com/in/aniruddh-tiwari/
 
-Scope: AI Data Dive is a Product create for Automated AI, which would enable Business to generate Actionable Insights using AI with minimal clicks, 
-no AI knowledge and zero coding experience.
+Scope: AI Data Dive is a Product created for Automated AI, which would enable Business to generate Actionable Insights using AI with minimal clicks, 
+no AI knowledge and zero coding experience on local system.
+Data Dive generates the code for Technical Team refinement or use iin existing code set.
+Collaboration: Predictions/Models can be shared in a small file as an attachment.
+Usage: Once saved, a Dynamically generated UI will be erected for Business to start predicting of individual data items or bulk prediction using flat files as inputs.
+UI also has capability to give optimal range for Business to look for outliers at run time.
+AI Data Dive also has capability of Automated Data Scrubbing, and Transformation, Data Cataloging and Profiling and Data Exploration.
+
+Current Status: Ai Data Dive is up and running. AI Data Dive supports Regression and Classification Algorithms; 
+
+***************************************************************************************************************
+
+REFER TO ATTACHED SCREENSHOTS FOR AI DATA DIVE CAPABILITIES.
+
+***************************************************************************************************************
+
+To Do: 
+1) Packaging code as executable Product; 
+2) Fix know bugs; 
+3) Enhance features with:
+  a. Additional file types, 
+  b. Pyspark implementation for distributed processing, 
+  c. Incorporating Neural Networks algorithms, 
+  d. Enhancing Feature engineering and selection 
